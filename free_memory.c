@@ -35,4 +35,3 @@ void free_lines(line_t *lines)
 	}
 	free(lines);
 }
-

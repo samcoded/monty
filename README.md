@@ -1,2 +1,2 @@
 # monty
-ALX MONTY
+Interpreter of Monty ByteCode files
